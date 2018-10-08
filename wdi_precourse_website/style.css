@@ -1,0 +1,93 @@
+
+
+body {
+  color:DarkSlateGrey
+}
+
+
+.header {
+  padding:4em;
+  background-color: CadetBlue;
+
+}
+
+.header-info {
+margin-bottom: 4em;
+color: DarkGrey;
+font-size:1em;
+
+}
+
+.container {
+  margin-top: 70px;
+  margin-bottom: 100px;
+}
+
+h1 {
+  font-family: Alike;
+  color:White;
+}
+
+.nav-link{
+  color:White;
+}
+
+.colorblock {
+height: 50px;
+float:left;
+}
+
+/*.p-box {
+  width:50%;
+float:left;
+padding:5%;
+font-size: large;
+}*/
+
+.p-box p {
+padding:15%;
+font-size: large;
+height: 50%;
+}
+
+.about-images{
+  width:100%;
+
+}
+
+/*.i-box{
+  float:left;
+}*/
+
+.row {
+  width:100%;
+  height:auto;
+  margin-left: 0;
+  margin-right: 0;
+
+}
+
+/*.color-click{
+  margin-bottom: 5em;
+}*/
+
+.p-box, .i-box {
+  width:50%;
+  float:left;
+}
+
+#cb1 {
+  background-color:CadetBlue
+}
+
+#cb2 {
+  background-color:Thistle
+}
+
+#cb3 {
+  background-color:Olive
+}
+
+#cb4 {
+  background-color:IndianRed
+}
